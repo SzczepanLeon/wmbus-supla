@@ -1,0 +1,1 @@
+![](https://github.com/SzczepanLeon/wmbus-supla/blob/main/docs/logo.png)
