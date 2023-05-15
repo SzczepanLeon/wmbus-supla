@@ -1,1 +1,2 @@
-![](https://github.com/SzczepanLeon/wmbus-supla/blob/main/docs/logo.png)
+![](https://github.com/SzczepanLeon/wmbus-supla/blob/master/docs/logo.png)
+    
